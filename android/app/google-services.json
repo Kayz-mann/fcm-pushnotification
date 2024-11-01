@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524228019734",
+    "project_id": "flutter-pushnotification-58a44",
+    "storage_bucket": "flutter-pushnotification-58a44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524228019734:android:defaa5e975342fa43c9737",
+        "android_client_info": {
+          "package_name": "com.fcmPushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwHSgStuwM_GySkDcyI4YlG3wSsog6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524228019734:android:ff2aa521b983ea783c9737",
+        "android_client_info": {
+          "package_name": "com.fpn.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwHSgStuwM_GySkDcyI4YlG3wSsog6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
